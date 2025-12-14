@@ -68,7 +68,7 @@ export default function ContactSection() {
             </div>
           </div>
 
-          {/*  */}
+          {/* Social Media & Quick Message */}
           <div className="bg-gradient-to-br from-orange-50 to-pink-50 rounded-3xl p-8">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Follow Us</h3>
             <p className="text-gray-700 mb-6">Stay updated with our latest products and offers</p>

@@ -145,7 +145,7 @@ TrxID: ${formData.trxId}`
             required
           />
         </div>
-        {/* Mail Not Required */}
+        {/* Mail Not Required*/}
         <div>
           <label className="block text-sm font-semibold text-gray-700 mb-2 flex items-center gap-2">
             <Mail className="w-4 h-4" />
