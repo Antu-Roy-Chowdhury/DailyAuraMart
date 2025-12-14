@@ -121,7 +121,7 @@ function Navigation() {
                             className: "flex items-center gap-4",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "https://wa.me/+8801518907652",
+                                    href: "https://wa.me/+8801568381366",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "flex items-center gap-2 bg-[#04b706] text-white px-4 py-2 rounded-full hover:bg-[#039605] transition-colors",
@@ -293,7 +293,7 @@ Phone: ${formData.mobileNumber}
 Address: ${formData.fullAddress}, ${formData.district}
 
 TrxID: ${formData.trxId}`;
-        const whatsappUrl = `https://wa.me/8801234567890?text=${encodeURIComponent(message)}`;
+        const whatsappUrl = `https://wa.me/+8801568381366?text=${encodeURIComponent(message)}`;
         window.open(whatsappUrl, "_blank");
     };
     if (!product || !product.Product_Name) {
@@ -893,7 +893,7 @@ function Footer() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "https://wa.me/+8801518907652",
+                                    href: "https://wa.me/+8801568381366",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "flex items-center gap-2 text-[#04b706] hover:text-[#039605] transition-colors mb-4",
@@ -905,7 +905,7 @@ function Footer() {
                                             lineNumber: 66,
                                             columnNumber: 15
                                         }, this),
-                                        "+880 1518907652"
+                                        "+880 1568381366"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/footer.jsx",
@@ -1077,7 +1077,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$re
 ;
 function FloatingWhatsApp() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-        href: "https://wa.me/+8801518907652",
+        href: "https://wa.me/+8801568381366",
         target: "_blank",
         rel: "noopener noreferrer",
         className: "fixed bottom-6 right-6 z-50 bg-[#04b706] text-white p-4 rounded-full shadow-2xl hover:bg-[#039605] transition-all hover:scale-110 group",

@@ -47,8 +47,8 @@ const metadata = {
     description: "Premium beauty, wellness & organic products in Bangladesh. 100% original products with fast delivery.",
     generator: "v0.app",
     icons: {
-        icon: "/favaura.png",
-        apple: "/favaura.png"
+        icon: "/apple-icon.png",
+        apple: "/apple-icon.png"
     }
 };
 function RootLayout({ children }) {
